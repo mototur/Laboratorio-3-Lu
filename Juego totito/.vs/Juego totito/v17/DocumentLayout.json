@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucia Sandoval\\OneDrive\\Desktop\\Laboratoria 3\\Juego totito\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4A1FF4-A1DA-43A0-9E90-4A03AA1388C0}|Juego totito\\Juego totito.csproj|c:\\users\\lucia sandoval\\onedrive\\desktop\\laboratoria 3\\juego totito\\juego totito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4A1FF4-A1DA-43A0-9E90-4A03AA1388C0}|Juego totito\\Juego totito.csproj|solutionrelative:juego totito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia Sandoval\\OneDrive\\Desktop\\Laboratoria 3\\Juego totito\\Juego totito\\Program.cs",
+              "RelativeDocumentMoniker": "Juego totito\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucia Sandoval\\OneDrive\\Desktop\\Laboratoria 3\\Juego totito\\Juego totito\\Program.cs",
+              "RelativeToolTip": "Juego totito\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T01:04:20.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

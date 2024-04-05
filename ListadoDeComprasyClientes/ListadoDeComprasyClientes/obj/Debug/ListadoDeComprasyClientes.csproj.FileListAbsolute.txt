@@ -1,0 +1,7 @@
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\ListadoDeComprasyClientes\ListadoDeComprasyClientes\bin\Debug\ListadoDeComprasyClientes.exe.config
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\ListadoDeComprasyClientes\ListadoDeComprasyClientes\bin\Debug\ListadoDeComprasyClientes.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\ListadoDeComprasyClientes\ListadoDeComprasyClientes\bin\Debug\ListadoDeComprasyClientes.pdb
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\ListadoDeComprasyClientes\ListadoDeComprasyClientes\obj\Debug\ListadoDeComprasyClientes.csproj.AssemblyReference.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\ListadoDeComprasyClientes\ListadoDeComprasyClientes\obj\Debug\ListadoDeComprasyClientes.csproj.CoreCompileInputs.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\ListadoDeComprasyClientes\ListadoDeComprasyClientes\obj\Debug\ListadoDeComprasyClientes.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\ListadoDeComprasyClientes\ListadoDeComprasyClientes\obj\Debug\ListadoDeComprasyClientes.pdb

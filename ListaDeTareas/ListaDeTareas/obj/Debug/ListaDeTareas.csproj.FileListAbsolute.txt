@@ -1,0 +1,7 @@
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\ListaDeTareas\ListaDeTareas\bin\Debug\ListaDeTareas.exe.config
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\ListaDeTareas\ListaDeTareas\bin\Debug\ListaDeTareas.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\ListaDeTareas\ListaDeTareas\bin\Debug\ListaDeTareas.pdb
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\ListaDeTareas\ListaDeTareas\obj\Debug\ListaDeTareas.csproj.AssemblyReference.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\ListaDeTareas\ListaDeTareas\obj\Debug\ListaDeTareas.csproj.CoreCompileInputs.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\ListaDeTareas\ListaDeTareas\obj\Debug\ListaDeTareas.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\ListaDeTareas\ListaDeTareas\obj\Debug\ListaDeTareas.pdb

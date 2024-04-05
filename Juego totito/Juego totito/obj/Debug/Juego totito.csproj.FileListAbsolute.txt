@@ -1,0 +1,7 @@
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\Juego totito\Juego totito\bin\Debug\Juego totito.exe.config
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\Juego totito\Juego totito\bin\Debug\Juego totito.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\Juego totito\Juego totito\bin\Debug\Juego totito.pdb
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\Juego totito\Juego totito\obj\Debug\Juego totito.csproj.AssemblyReference.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\Juego totito\Juego totito\obj\Debug\Juego totito.csproj.CoreCompileInputs.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\Juego totito\Juego totito\obj\Debug\Juego totito.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\Juego totito\Juego totito\obj\Debug\Juego totito.pdb
