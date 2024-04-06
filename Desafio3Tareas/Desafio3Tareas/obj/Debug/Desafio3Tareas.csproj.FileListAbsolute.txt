@@ -1,0 +1,7 @@
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\Desafio3Tareas\Desafio3Tareas\bin\Debug\Desafio3Tareas.exe.config
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\Desafio3Tareas\Desafio3Tareas\bin\Debug\Desafio3Tareas.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\Desafio3Tareas\Desafio3Tareas\bin\Debug\Desafio3Tareas.pdb
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\Desafio3Tareas\Desafio3Tareas\obj\Debug\Desafio3Tareas.csproj.AssemblyReference.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\Desafio3Tareas\Desafio3Tareas\obj\Debug\Desafio3Tareas.csproj.CoreCompileInputs.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\Desafio3Tareas\Desafio3Tareas\obj\Debug\Desafio3Tareas.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Laboratoria 3\Desafio3Tareas\Desafio3Tareas\obj\Debug\Desafio3Tareas.pdb

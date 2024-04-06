@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucia Sandoval\\OneDrive\\Desktop\\Laboratoria 3\\Desafio3Tareas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1506786D-E79F-45CB-AF65-C63B4B6E6832}|Desafio3Tareas\\Desafio3Tareas.csproj|c:\\users\\lucia sandoval\\onedrive\\desktop\\laboratoria 3\\desafio3tareas\\desafio3tareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1506786D-E79F-45CB-AF65-C63B4B6E6832}|Desafio3Tareas\\Desafio3Tareas.csproj|solutionrelative:desafio3tareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia Sandoval\\OneDrive\\Desktop\\Laboratoria 3\\Desafio3Tareas\\Desafio3Tareas\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio3Tareas\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucia Sandoval\\OneDrive\\Desktop\\Laboratoria 3\\Desafio3Tareas\\Desafio3Tareas\\Program.cs",
+              "RelativeToolTip": "Desafio3Tareas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T04:29:07.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
